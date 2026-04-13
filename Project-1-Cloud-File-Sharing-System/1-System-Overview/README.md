@@ -48,7 +48,7 @@ The following systems interact with CFSS but are not part of the system boundary
 - Okta (Identity Provider) used for authentication, Single Sign-On (SSO), and Multi-Factor Authentication (MFA)  
 - Microsoft 365 (Email System) used for notifications and communication  
 - User endpoint devices (e.g., laptops, mobile devices) used to access the system 
-## Excluded Components
+### Excluded Components
 The following components are not within the system boundary and are managed by the third-party service provider:
 - Underlying infrastructure, including servers, databases, and storage  
 - Operating system and runtime environment  
