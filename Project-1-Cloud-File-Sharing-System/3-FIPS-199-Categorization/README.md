@@ -8,6 +8,8 @@ The Cloud File Sharing System (CFSS) was put into groups according to FIPS 199 t
 | Integrity          | Moderate     |
 | Availability       | Moderate     |
 
+SC CFSS = {(confidentiality, MODERATE), (integrity, MODERATE), (availability, MODERATE)}
+
 ## Justification
 ### Confidentiality: Moderate
 The unauthorized disclosure of information within the Cloud File Sharing System (CFSS) would result in a serious adverse effect on the organization. The system contains business-sensitive data, financial information, and personally identifiable information (PII), which could lead to loss of client trust, reputational damage, and potential privacy concerns if exposed. However, the impact is not expected to be severe or catastrophic to organizational operations.
