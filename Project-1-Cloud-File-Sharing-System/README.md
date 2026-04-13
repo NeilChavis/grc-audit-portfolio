@@ -21,21 +21,21 @@ This assessment focuses on how Apex Consulting Group uses the Cloud File Sharin
 
 ## Repository Structure
 - 1-System-Overview
-  Provides background on the organization, system purpose, users, and data types.
+  - Provides background on the organization, system purpose, users, and data types.
 - 2-Cloud-Responsibility
-  Defines the SaaS shared responsibility model between the provider and the organization.
+  - Defines the SaaS shared responsibility model between the provider and the organization.
 - 3-FIPS-199-Categorization
-  Documents system impact levels based on confidentiality, integrity, and availability using FIPS 199 and NIST SP 800-60.
+  - Documents system impact levels based on confidentiality, integrity, and availability using FIPS 199 and NIST SP 800-60.
 - 4-Control-Selection
-  Identifies applicable security controls using FIPS 200 and NIST SP 800-53B.
+  - Identifies applicable security controls using FIPS 200 and NIST SP 800-53B.
 - 5-Control-Implementations
-  Explains how selected controls are implemented within the system environment using NIST SP 800-53 and NIST SP 800-53A.
+  - Explains how selected controls are implemented within the system environment using NIST SP 800-53 and NIST SP 800-53A.
 - 6-Risk-Register
-  Captures identified risks through a qualitative risk assessment methodology consistent with NIST SP 800-30 and organizational risk factors from NIST SP 800-39.
+  - Captures identified risks through a qualitative risk assessment methodology consistent with NIST SP 800-30 and organizational risk factors from NIST SP 800-39.
 - 7-POA&M
-  Outlines corrective actions and timelines to address identified control gaps.
+  - Outlines corrective actions and timelines to address identified control gaps.
 - 8-Authorization-Summary
-  Provides a risk-based recommendation to support the system’s authorization decision using NIST SP 800-37
+  - Provides a risk-based recommendation to support the system’s authorization decision using NIST SP 800-37
 
 ## Goal
 The purpose of this project is to imitate a real-world security assessment of an information system that is being utilized and show how governance, risk, and compliance activities are employed in real life. This project is not only about documentation. It also looks at how a system works, how well its security controls work, and what dangers come from practical use and dependencies.
