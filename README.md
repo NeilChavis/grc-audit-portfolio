@@ -1,4 +1,4 @@
-# GRC / ISSO Portfolio
+# GRC & Audit Portfolio
 
 This repository includes real-world Governance, Risk, and Compliance (GRC) and IT Audit-focused projects that simulates carrying out security assessments and system evaluation.
 
