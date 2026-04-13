@@ -55,3 +55,6 @@ The following components are not within the system boundary and are managed by t
 - Operating system and runtime environment  
 - Network infrastructure and supporting platform services
 
+## System Boundary Diagram
+
+![System Boundary Diagram](cfss_boundary.png)
