@@ -8,7 +8,7 @@ The Cloud File Sharing System (CFSS) is a Software as a Service (SaaS) platform 
 The CFSS supports daily operations by allowing users to upload, retrieve, and share files internally and externally with clients through secure methods. The system is critical to business operations, as it replaces traditional file storage and email-based file sharing, and is relied upon for ongoing project work and document management.
 ## Users and Roles
 ### Employees (Standard Users):  
-Regular users includes consultants and general employees. They are who generate the majority of system activity. They use the system to upload, access, and share files required for daily operations with standard access permissions.
+Regular users include consultants and general employees. They are who generate the majority of system activity. They use the system to upload, access, and share files required for daily operations with standard access permissions.
 ### Managers/Supervisors:  
 This will include managers and project leads. These are users with elevated visibility over team-related content. They coordinate collaboration efforts, oversee shared resources, and may have broader access to departmental files based on their role.
 ### System Administrators (IT/Admin):  
