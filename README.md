@@ -7,7 +7,7 @@ Every project is based on a real-world business scenario where an information sy
 ## Projects
 
 ### Project 1: Cloud File Sharing System (SaaS)
-Under the guise of a consulting firm, this project mimics the initial security authorization process for a cloud-based file sharing system that deals with confidential company information and basic personally identifiable information. In order to back a risk-based permission decision, we need to evaluate the system's present security posture, find control holes, and the system is already in use.
+Under the guise of a consulting firm, this project mimics the initial security authorization process for a cloud-based file sharing system that deals with confidential company information and basic personally identifiable information. In order to back a risk-based permission decision, we need to evaluate the system's present security posture, find control gaps, and the system is already in use.
 
 #### Key Deliverables:
 - System Security Plan (SSP) aligned with RMF principles
