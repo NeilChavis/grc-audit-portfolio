@@ -18,4 +18,4 @@ Key control families considered in this assessment include:
 ## Control Selection Table
 The following table summarizes selected controls and their relevance to the CFSS environment.
 
-![Control Selection Table](control_selection.xlsx)
+![Control Selection Table](control_selection.pdf)
