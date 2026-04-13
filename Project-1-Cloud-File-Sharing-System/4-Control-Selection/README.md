@@ -14,3 +14,8 @@ Key control families considered in this assessment include:
 - System and Information Integrity (SI) – Monitoring and detection of system anomalies
 - Configuration Management (CM) – System configuration and change control
 - Contingency Planning (CP) – System availability and recovery considerations
+
+## Control Selection Table
+The following table summarizes selected controls and their relevance to the CFSS environment.
+
+![Control Selection Table](control_selection.xlsx)
