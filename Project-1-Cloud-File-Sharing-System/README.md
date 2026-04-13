@@ -36,6 +36,8 @@ This assessment focuses on how Apex Consulting Group uses the Cloud File Sharin
   - Outlines corrective actions and timelines to address identified control gaps.
 - 8-Authorization-Summary
   - Provides a risk-based recommendation to support the system’s authorization decision using NIST SP 800-37
+- 9-Compliance-Artifacts
+  - Contains the primary deliverables produced during the assessment, including the System Security Plan (SSP), Security Assessment Report (SAR), Risk Register, Control Selection, System Boundary Diagram, and Plan of Action & Milestones (POA&M).
 
 ## Goal
 The purpose of this project is to imitate a real-world security assessment of an information system that is being utilized and show how governance, risk, and compliance activities are employed in real life. This project is not only about documentation. It also looks at how a system works, how well its security controls work, and what dangers come from practical use and dependencies.
