@@ -1,6 +1,6 @@
 # Project 1: Cloud File Sharing System
 ## Overview
-TThis project is a simulation of a security assessment and for a Cloud File Sharing System (CFSS) that is used by Apex Consulting Group, a consulting firm that works with critical business data and only a small amount of personally identifiable information (PII). This work is not to design the system from scratch, but to look at its current security posture. The system is already in operation.
+This project is a simulation of a security assessment and for a Cloud File Sharing System (CFSS) that is used by Apex Consulting Group, a consulting firm that works with critical business data and only a small amount of personally identifiable information (PII). This work is not to design the system from scratch, but to look at its current security posture. The system is already in operation.
 
 The NIST Risk Management Framework (RMF) is used to do the evaluation, and it shows how a GRC Analyst, ISSO, or IT Auditor would look at a real-world system. This means knowing how the system works in real life, figuring out where security controls work and where they don't, and writing down risks based on how the system really works and what it depends on. The idea is to go beyond just thinking about things and instead make structured, evidence-based outputs that help with a decision on whether or not to give someone permission.
 
